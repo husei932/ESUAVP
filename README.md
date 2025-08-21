@@ -81,6 +81,8 @@ Yes. Planned:
 - Example firmware and test cases  
 
 
+
+
 ## Authors
 
 <table>
@@ -94,20 +96,17 @@ Yes. Planned:
     </td>
     <td>
       <b>Role:</b> Maintainer / Hardware & Firmware<br/>
-      <b>Focus:</b> ESP32-S3, PCB (KiCad), GPS/IMU integration
+      <b>Focus:</b> ESP32-S3, PCB (KiCad), power, EMC/ESD, signal integrity
       <br><br>
       <!-- skills / tech badges -->
       <img src="https://img.shields.io/badge/ESP32--S3-E7352C?logo=espressif&logoColor=white" alt="ESP32-S3">
       <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white" alt="KiCad">
-      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/GPS-NEO--M8N-0A7" alt="NEO-M8N">
-      <img src="https://img.shields.io/badge/IMU-LSM6DS3-0A7" alt="LSM6DS3">
-      <img src="https://img.shields.io/badge/Magnetometer-LIS3MDL-0A7" alt="LIS3MDL">
+      <img src="https://img.shields.io/badge/PCB-Layout-blue" alt="PCB Layout">
+      <img src="https://img.shields.io/badge/Signal%20Integrity-SI-0A7" alt="Signal Integrity">
+      <img src="https://img.shields.io/badge/EMC%2FESD-design-purple" alt="EMC/ESD">
     </td>
   </tr>
 </table>
-
 ## Quotes
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
