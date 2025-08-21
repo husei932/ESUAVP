@@ -104,9 +104,33 @@ Yes. Planned:
       <img src="https://img.shields.io/badge/PCB-Layout-blue" alt="PCB Layout">
       <img src="https://img.shields.io/badge/Signal%20Integrity-SI-0A7" alt="Signal Integrity">
       <img src="https://img.shields.io/badge/EMC%2FESD-design-purple" alt="EMC/ESD">
+
+      <tr>
+  <td width="120" align="center">
+    <a href="https://github.com/Decide0">
+      <img src="https://github.com/Decide0.png" width="96" alt="@Decide0">
+    </a>
+    <br/>
+    <sub><b>@Decide0</b></sub>
+  </td>
+  <td>
+    <b>Role:</b> Software / Firmware<br/>
+    <b>Focus:</b> C++, Java, Python
+    <br><br>
+    <!-- tech badges -->
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    <!-- Steam badge (clickable, empty link for now) -->
+    <a href="#">
+      <img src="https://img.shields.io/badge/Steam-Profile-1b2838?logo=steam&logoColor=white" alt="Steam">
+    </a>
+  </td>
+</tr>
     </td>
   </tr>
 </table>
+
 ## Quotes
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
