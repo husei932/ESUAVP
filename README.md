@@ -105,7 +105,7 @@ Yes. Planned:
       <img src="https://img.shields.io/badge/Signal%20Integrity-SI-0A7" alt="Signal Integrity">
       <img src="https://img.shields.io/badge/EMC%2FESD-design-purple" alt="EMC/ESD">
 
-      <tr>
+    
   <td width="120" align="center">
     <a href="https://github.com/Decide0">
       <img src="https://github.com/Decide0.png" width="96" alt="@Decide0">
