@@ -1,14 +1,17 @@
+<h1 align="center">ESUAVP — UAV Controller on ESP32-S3</h1>
+
 <p align="center">
   <a href="https://github.com/husei932/ESUAVP/releases">
-    <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date-pre/husei932/ESUAVP">
+    <img alt="release date" src="https://img.shields.io/github/release-date-pre/husei932/ESUAVP?label=release%20date&style=flat">
   </a>
   <a href="https://github.com/husei932/ESUAVP/graphs/contributors">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/husei932/ESUAVP">
+    <img alt="contributors" src="https://img.shields.io/github/contributors/husei932/ESUAVP?label=contributors&style=flat">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-CERN--OHL--S-green.svg">
-  <img alt="Status" src="https://img.shields.io/badge/status-pre--final-yellow.svg">
+  <a href="./LICENSE">
+    <img alt="license: CERN-OHL-S" src="https://img.shields.io/badge/license-CERN--OHL--S-green?style=flat">
+  </a>
+  <img alt="status: pre-final" src="https://img.shields.io/badge/status-pre--final-yellow?style=flat">
 </p>
-<h1 align="center">ESUAVP — UAV Controller on ESP32-S3</h1>
 
 NEO-M8N GPS, LSM6DS3 IMU, LIS3MDL magnetometer, powered by 3.3 V from a step-down DC-DC converter.  
 
