@@ -1,9 +1,12 @@
 <p align="center">
   <a href="https://github.com/husei932/ESUAVP">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./logo_white.png">
-      <source media="(prefers-color-scheme: light)" srcset="./logo_black.png">
-      <img alt="ESUAVP logo" src="./logo_black.png" width="180">
+      <!-- Тёмная тема: белый логотип -->
+      <source media="(prefers-color-scheme: dark)" srcset="./logw.png">
+      <!-- Светлая тема: чёрный логотип -->
+      <source media="(prefers-color-scheme: light)" srcset="./logo.png">
+      <!-- Фолбек -->
+      <img alt="ESUAVP logo" src="./logo.png" width="180">
     </picture>
   </a>
 </p>
