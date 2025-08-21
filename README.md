@@ -1,5 +1,5 @@
-https://img.shields.io/github/release-date-pre/husei932/ESUAVP
-# ESUAVP — UAV Controller on ESP32-S3  
+![GitHub Release Date](https://img.shields.io/github/release-date-pre/husei932/ESUAVP)
+<h1 align="center">ESUAVP — UAV Controller on ESP32-S3</h1>
 
 NEO-M8N GPS, LSM6DS3 IMU, LIS3MDL magnetometer, powered by 3.3 V from a step-down DC-DC converter.  
 
