@@ -83,11 +83,31 @@ Yes. Planned:
 
 ## Authors
 
-- [@Decide0](https://github.com/Decide0)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<table>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/husei932">
+        <img src="https://github.com/husei932.png" width="96" alt="@husei932">
+      </a>
+      <br/>
+      <sub><b>@husei932</b></sub>
+    </td>
+    <td>
+      <b>Role:</b> Maintainer / Hardware & Firmware<br/>
+      <b>Focus:</b> ESP32-S3, PCB (KiCad), GPS/IMU integration
+      <br><br>
+      <!-- skills / tech badges -->
+      <img src="https://img.shields.io/badge/ESP32--S3-E7352C?logo=espressif&logoColor=white" alt="ESP32-S3">
+      <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white" alt="KiCad">
+      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/GPS-NEO--M8N-0A7" alt="NEO-M8N">
+      <img src="https://img.shields.io/badge/IMU-LSM6DS3-0A7" alt="LSM6DS3">
+      <img src="https://img.shields.io/badge/Magnetometer-LIS3MDL-0A7" alt="LIS3MDL">
+    </td>
+  </tr>
+</table>
+
 ## Quotes
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
