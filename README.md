@@ -1,11 +1,12 @@
-<!-- Logo -->
 <p align="center">
   <a href="https://github.com/husei932/ESUAVP">
-    <!-- Используй относительный путь, а не blob-ссылку -->
-    <img src="./log.png" alt="ESUAVP logo" width="200">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./logo_white.png">
+      <source media="(prefers-color-scheme: light)" srcset="./logo_black.png">
+      <img alt="ESUAVP logo" src="./logo_black.png" width="180">
+    </picture>
   </a>
 </p>
-
 <!-- Title -->
 <h1 align="center">ESUAVP — UAV Controller on ESP32-S3</h1>
 
