@@ -1,7 +1,32 @@
+<!-- Logo -->
 <p align="center">
-  <img src="./LOGO.png" alt="ESUAVP logo" width="200">
+  <a href="https://github.com/husei932/ESUAVP">
+    <!-- Используй относительный путь, а не blob-ссылку -->
+    <img src="./log.png" alt="ESUAVP logo" width="200">
+  </a>
 </p>
 
+<!-- Title -->
+<h1 align="center">ESUAVP — UAV Controller on ESP32-S3</h1>
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/husei932/ESUAVP/releases">
+    <img alt="release date" src="https://img.shields.io/github/release-date-pre/husei932/ESUAVP?label=release%20date&style=flat">
+  </a>
+  <a href="https://github.com/husei932/ESUAVP/graphs/contributors">
+    <img alt="contributors" src="https://img.shields.io/github/contributors/husei932/ESUAVP?label=contributors&style=flat">
+  </a>
+  <a href="https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/b236492596cfc91c12def7d50bbf7da0/cern_ohl_s_v2.pdf">
+    <img alt="license: CERN-OHL-S v2" src="https://img.shields.io/badge/license-CERN--OHL--S%20v2-green?style=flat">
+  </a>
+  <img alt="status: pre-final" src="https://img.shields.io/badge/status-pre--final-yellow?style=flat">
+</p>
+
+<!-- One-liner -->
+<p align="center">
+  NEO-M8N GPS · LSM6DS3 IMU · LIS3MDL magnetometer · 3.3 V step-down DC-DC
+</p>
 
 NEO-M8N GPS, LSM6DS3 IMU, LIS3MDL magnetometer, powered by 3.3 V from a step-down DC-DC converter.  
 
