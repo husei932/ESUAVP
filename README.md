@@ -1,14 +1,5 @@
 <p align="center">
-  <a href="https://github.com/husei932/ESUAVP/releases">
-    <img alt="release date" src="https://img.shields.io/github/release-date-pre/husei932/ESUAVP?label=release%20date&style=flat">
-  </a>
-  <a href="https://github.com/husei932/ESUAVP/graphs/contributors">
-    <img alt="contributors" src="https://img.shields.io/github/contributors/husei932/ESUAVP?label=contributors&style=flat">
-  </a>
-  <a href="https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/b236492596cfc91c12def7d50bbf7da0/cern_ohl_s_v2.pdf">
-    <img alt="license: CERN-OHL-S v2" src="https://img.shields.io/badge/license-CERN--OHL--S%20v2-green?style=flat">
-  </a>
-  <img alt="status: pre-final" src="https://img.shields.io/badge/status-pre--final-yellow?style=flat">
+  <img src="./LOGO.png" alt="ESUAVP logo" width="200">
 </p>
 
 
